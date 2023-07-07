@@ -1,8 +1,6 @@
     h1{
-        color:#2b170f;
-        font-family:'Courier New', Courier, monospace; 
-        align-content: center;
-        align-items: center;
+        color:#204cb1;
+        font-family: 'Times New Roman', Times, serif; text-align: center;
         }
     p{
         margin:auto;
