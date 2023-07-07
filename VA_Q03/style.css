@@ -1,5 +1,5 @@
     h1{
-        color:#024065;
+        color:#2b170f;
         font-family:'Courier New', Courier, monospace; 
         align-content: center;
         align-items: center;
@@ -14,13 +14,4 @@
         margin:40px;
         align-items: center;
     }
-    .fa {
-        padding: 20px;
-        font-size: 30px;
-        width: 30px;
-        text-align: center;
-        text-decoration: none;
-        border-radius: 50%;
-      }
-
- 
+   
